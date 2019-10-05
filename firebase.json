@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "hackelite-master",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
